@@ -92,7 +92,8 @@ python -m streamlit run app.py
 ```
 
 ## 📸 Demo Screenshot
-![PaperMindAI Demo](demo_screenshot.png) *(Add a screenshot here)*
+<img width="1909" height="912" alt="Screenshot 2026-09-17 150326" src="https://github.com/user-attachments/assets/b7c49e17-d0ec-40dc-81ce-c25159fc5a91" />
+
 
 ## 📖 How to Use
 1.  Launch the app and open the `localhost` URL in your browser.
