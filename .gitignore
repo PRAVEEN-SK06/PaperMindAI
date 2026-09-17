@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application specific data
+faiss_index/
+pdf_uploads/
+*.pdf
+
+# Virtual environment (if any)
+venv/
+env/
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
